@@ -1,0 +1,5131 @@
+prompt,label
+"LEFT id: 410
+RIGHT id: 309
+
+LEFT addr: NA
+RIGHT addr: 181 peachtree st.
+
+LEFT class: NA
+RIGHT class: 91
+
+LEFT address: 1829 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: palisades
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 404/350 -6755
+RIGHT phone: 404-659-0400
+
+LEFT category: continental 410
+RIGHT category: NA
+",n
+"LEFT id: 431
+RIGHT id: 132
+
+LEFT addr: NA
+RIGHT addr: 3400 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 666
+
+LEFT address: 3555 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bugsy \ s diner
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: chinese
+
+LEFT phone: 702/733 -3111
+RIGHT phone: 702-791-7352
+
+LEFT category: ` coffee shops/diners ' 431
+RIGHT category: NA
+",n
+"LEFT id: 28
+RIGHT id: 151
+
+LEFT addr: NA
+RIGHT addr: 1021 cobb pkwy . se
+
+LEFT class: NA
+RIGHT class: 685
+
+LEFT address: 2450 broadway between 90th and 91st sts . new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: marietta
+
+LEFT title: carmine \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: hamburgers
+
+LEFT phone: 212/362 -2200
+RIGHT phone: 770-422-8042
+
+LEFT category: italian 28
+RIGHT category: NA
+",n
+"LEFT id: 295
+RIGHT id: 271
+
+LEFT addr: NA
+RIGHT addr: 35 w. 64th st.
+
+LEFT class: NA
+RIGHT class: 53
+
+LEFT address: 51 w. 64th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: lincoln tavern
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: mediterranean
+
+LEFT phone: 212/721 -8271
+RIGHT phone: 212-724-8585
+
+LEFT category: american 294
+RIGHT category: NA
+",n
+"LEFT id: 46
+RIGHT id: 251
+
+LEFT addr: NA
+RIGHT addr: 243 e. 58th st.
+
+LEFT class: NA
+RIGHT class: 33
+
+LEFT address: 405 e. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: march
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 212/754 -6272
+RIGHT phone: 212-758-1479
+
+LEFT category: american 46
+RIGHT category: NA
+",n
+"LEFT id: 438
+RIGHT id: 288
+
+LEFT addr: NA
+RIGHT addr: 3570 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 70
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: em press court
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/731 -7888
+RIGHT phone: 702-731-7110
+
+LEFT category: asian 438
+RIGHT category: NA
+",n
+"LEFT id: 373
+RIGHT id: 178
+
+LEFT addr: NA
+RIGHT addr: 200 14th st. nw
+
+LEFT class: NA
+RIGHT class: 713
+
+LEFT address: 200 e. 54th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: vong
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` coffee shops '
+
+LEFT phone: 212/486 -9592
+RIGHT phone: 404-874-1388
+
+LEFT category: american 373
+RIGHT category: NA
+",n
+"LEFT id: 72
+RIGHT id: 123
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 657
+
+LEFT address: 2880 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: steak house
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: continental
+
+LEFT phone: 702/734 -0410
+RIGHT phone: 702-894-7350
+
+LEFT category: ` steak houses ' 72
+RIGHT category: NA
+",n
+"LEFT id: 133
+RIGHT id: 232
+
+LEFT addr: NA
+RIGHT addr: 129 n. la cienega blvd.
+
+LEFT class: NA
+RIGHT class: 14
+
+LEFT address: 730 n. la cienega blvd. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: beverly hills
+
+LEFT title: drai \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: seafood
+
+LEFT phone: 310/358 -8585
+RIGHT phone: 310-659-9639
+
+LEFT category: french 130
+RIGHT category: NA
+",n
+"LEFT id: 44
+RIGHT id: 250
+
+LEFT addr: NA
+RIGHT addr: 210 e. 58th st.
+
+LEFT class: NA
+RIGHT class: 32
+
+LEFT address: 249 e. 50th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: lutece
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: indian
+
+LEFT phone: 212/752 -2225
+RIGHT phone: 212-355-7555
+
+LEFT category: french 44
+RIGHT category: NA
+",n
+"LEFT id: 437
+RIGHT id: 131
+
+LEFT addr: NA
+RIGHT addr: 3145 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 665
+
+LEFT address: 2880 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: circus circus
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/734 -0410
+RIGHT phone: 702-733-4524
+
+LEFT category: buffets 437
+RIGHT category: NA
+",n
+"LEFT id: 437
+RIGHT id: 123
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 657
+
+LEFT address: 2880 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: circus circus
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: continental
+
+LEFT phone: 702/734 -0410
+RIGHT phone: 702-894-7350
+
+LEFT category: buffets 437
+RIGHT category: NA
+",n
+"LEFT id: 91
+RIGHT id: 309
+
+LEFT addr: NA
+RIGHT addr: 181 peachtree st.
+
+LEFT class: NA
+RIGHT class: 91
+
+LEFT address: 181 peachtree st. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: restaurant ritz-carlton atlanta
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 404/659 -0400
+RIGHT phone: 404-659-0400
+
+LEFT category: continental 91
+RIGHT category: NA
+",y
+"LEFT id: 1
+RIGHT id: 56
+
+LEFT addr: NA
+RIGHT addr: 15322 ventura blvd.
+
+LEFT class: NA
+RIGHT class: 590
+
+LEFT address: 12224 ventura blvd. studio city
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: encino
+
+LEFT title: art \ s delicatessen
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` hot dogs '
+
+LEFT phone: 818/762 -1221
+RIGHT phone: 818-905-6515
+
+LEFT category: american 1
+RIGHT category: NA
+",n
+"LEFT id: 170
+RIGHT id: 30
+
+LEFT addr: NA
+RIGHT addr: 7507 melrose ave.
+
+LEFT class: NA
+RIGHT class: 564
+
+LEFT address: 7313 melrose ave. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: tommy tang \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: american
+
+LEFT phone: 213/937 -5733
+RIGHT phone: 213-651-3361
+
+LEFT category: asian 167
+RIGHT category: NA
+",n
+"LEFT id: 32
+RIGHT id: 264
+
+LEFT addr: NA
+RIGHT addr: 405 e. 58th st.
+
+LEFT class: NA
+RIGHT class: 46
+
+LEFT address: 210 e. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: dawat
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/355 -7555
+RIGHT phone: 212-754-6272
+
+LEFT category: asian 32
+RIGHT category: NA
+",n
+"LEFT id: 427
+RIGHT id: 131
+
+LEFT addr: NA
+RIGHT addr: 3145 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 665
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bertolini \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/735 -4663
+RIGHT phone: 702-733-4524
+
+LEFT category: italian 427
+RIGHT category: NA
+",n
+"LEFT id: 366
+RIGHT id: 243
+
+LEFT addr: NA
+RIGHT addr: 34 e. 61st st.
+
+LEFT class: NA
+RIGHT class: 25
+
+LEFT address: 34 e. 51st st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: tse yang
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/688 -5447
+RIGHT phone: 212-319-1660
+
+LEFT category: asian 366
+RIGHT category: NA
+",n
+"LEFT id: 109
+RIGHT id: 327
+
+LEFT addr: NA
+RIGHT addr: 545 post st.
+
+LEFT class: NA
+RIGHT class: 109
+
+LEFT address: 545 post st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: postrio
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 415/776 -7825
+RIGHT phone: 415-776-7825
+
+LEFT category: american 109
+RIGHT category: NA
+",y
+"LEFT id: 230
+RIGHT id: 245
+
+LEFT addr: NA
+RIGHT addr: 1 w. 67th st.
+
+LEFT class: NA
+RIGHT class: 27
+
+LEFT address: 181 w. 10th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: dix et sept
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/645 -8023
+RIGHT phone: 212-877-3500
+
+LEFT category: french 228
+RIGHT category: NA
+",n
+"LEFT id: 168
+RIGHT id: 224
+
+LEFT addr: NA
+RIGHT addr: 6703 melrose ave.
+
+LEFT class: NA
+RIGHT class: 6
+
+LEFT address: 7371 melrose ave. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: los angeles
+
+LEFT title: tavola calda
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 213/658 -6340
+RIGHT phone: 213-857-0034
+
+LEFT category: italian 165
+RIGHT category: NA
+",n
+"LEFT id: 99
+RIGHT id: 317
+
+LEFT addr: NA
+RIGHT addr: 804 north point st.
+
+LEFT class: NA
+RIGHT class: 99
+
+LEFT address: 804 northpoint san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: chez michel
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 415/775 -7036
+RIGHT phone: 415-775-7036
+
+LEFT category: french 99
+RIGHT category: NA
+",y
+"LEFT id: 290
+RIGHT id: 270
+
+LEFT addr: NA
+RIGHT addr: 182 w. 58th st.
+
+LEFT class: NA
+RIGHT class: 52
+
+LEFT address: 168 w. 18th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: le madri
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: russian
+
+LEFT phone: 212/727 -8022
+RIGHT phone: 212-245-2214
+
+LEFT category: italian 289
+RIGHT category: NA
+",n
+"LEFT id: 332
+RIGHT id: 269
+
+LEFT addr: NA
+RIGHT addr: 100 e. 63rd st.
+
+LEFT class: NA
+RIGHT class: 51
+
+LEFT address: 28 e. 63rd st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: post house
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/935 -2888
+RIGHT phone: 212-644-1900
+
+LEFT category: american 331
+RIGHT category: NA
+",n
+"LEFT id: 356
+RIGHT id: 261
+
+LEFT addr: NA
+RIGHT addr: 2 e. 55th st.
+
+LEFT class: NA
+RIGHT class: 43
+
+LEFT address: 65 w. 55th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: tang pavillion
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 212/956 -6888
+RIGHT phone: 212-339-6719
+
+LEFT category: asian 356
+RIGHT category: NA
+",n
+"LEFT id: 373
+RIGHT id: 261
+
+LEFT addr: NA
+RIGHT addr: 2 e. 55th st.
+
+LEFT class: NA
+RIGHT class: 43
+
+LEFT address: 200 e. 54th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: vong
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 212/486 -9592
+RIGHT phone: 212-339-6719
+
+LEFT category: american 373
+RIGHT category: NA
+",n
+"LEFT id: 80
+RIGHT id: 298
+
+LEFT addr: NA
+RIGHT addr: 1 margaret mitchell sq.
+
+LEFT class: NA
+RIGHT class: 80
+
+LEFT address: 1 margaret mitchell sq. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: delectables
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: cafeterias
+
+LEFT phone: 404/681 -2909
+RIGHT phone: 404-681-2909
+
+LEFT category: american 80
+RIGHT category: NA
+",y
+"LEFT id: 498
+RIGHT id: 328
+
+LEFT addr: NA
+RIGHT addr: 600 stockton st.
+
+LEFT class: NA
+RIGHT class: 110
+
+LEFT address: 1652 stockton st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: moose \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 415/989 -7800
+RIGHT phone: 415-296-7465
+
+LEFT category: mediterranean 498
+RIGHT category: NA
+",n
+"LEFT id: 366
+RIGHT id: 109
+
+LEFT addr: NA
+RIGHT addr: 38 e. 51st st.
+
+LEFT class: NA
+RIGHT class: 643
+
+LEFT address: 34 e. 51st st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: tse yang
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: japanese
+
+LEFT phone: 212/688 -5447
+RIGHT phone: 212-755-1780
+
+LEFT category: asian 366
+RIGHT category: NA
+",n
+"LEFT id: 440
+RIGHT id: 138
+
+LEFT addr: NA
+RIGHT addr: 129 fremont st.
+
+LEFT class: NA
+RIGHT class: 672
+
+LEFT address: 129 e. fremont st. las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: golden nugget hotel
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 702/385 -7111
+RIGHT phone: 702-385-7111
+
+LEFT category: buffets 440
+RIGHT category: NA
+",n
+"LEFT id: 512
+RIGHT id: 47
+
+LEFT addr: NA
+RIGHT addr: 3117 ocean park blvd.
+
+LEFT class: NA
+RIGHT class: 581
+
+LEFT address: 108 south park san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: santa monica
+
+LEFT title: south park cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: american
+
+LEFT phone: 415/495 -7275
+RIGHT phone: 310-452-5728
+
+LEFT category: french 512
+RIGHT category: NA
+",n
+"LEFT id: 429
+RIGHT id: 140
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 674
+
+LEFT address: 3400 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bistro
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 702/791 -7111
+RIGHT phone: 702-891-7331
+
+LEFT category: continental 429
+RIGHT category: NA
+",n
+"LEFT id: 90
+RIGHT id: 310
+
+LEFT addr: NA
+RIGHT addr: 293-b peachtree rd.
+
+LEFT class: NA
+RIGHT class: 92
+
+LEFT address: 3434 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: dining room ritz-carlton buckhead
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 404/237 -2700
+RIGHT phone: 404-351-9533
+
+LEFT category: international 90
+RIGHT category: NA
+",n
+"LEFT id: 151
+RIGHT id: 45
+
+LEFT addr: NA
+RIGHT addr: 7261 melrose ave.
+
+LEFT class: NA
+RIGHT class: 579
+
+LEFT address: 8764 melrose ave. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: morton \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: hamburgers
+
+LEFT phone: 310/276 -5205
+RIGHT phone: 213-935-5280
+
+LEFT category: american 148
+RIGHT category: NA
+",n
+"LEFT id: 223
+RIGHT id: 249
+
+LEFT addr: NA
+RIGHT addr: 20 e. 76th st.
+
+LEFT class: NA
+RIGHT class: 31
+
+LEFT address: 23 e. 74th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: coco pazzo
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 212/794 -0205
+RIGHT phone: 212-288-0033
+
+LEFT category: italian 221
+RIGHT category: NA
+",n
+"LEFT id: 442
+RIGHT id: 138
+
+LEFT addr: NA
+RIGHT addr: 129 fremont st.
+
+LEFT class: NA
+RIGHT class: 672
+
+LEFT address: 129 e. fremont st. las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: lillie langtry \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 702/385 -7111
+RIGHT phone: 702-385-7111
+
+LEFT category: asian 442
+RIGHT category: NA
+",n
+"LEFT id: 5
+RIGHT id: 223
+
+LEFT addr: NA
+RIGHT addr: 2709 main st.
+
+LEFT class: NA
+RIGHT class: 5
+
+LEFT address: 2709 main st. santa monica
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: santa monica
+
+LEFT title: chinois on main
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` pacific new wave '
+
+LEFT phone: 310/392 -9025
+RIGHT phone: 310-392-9025
+
+LEFT category: french 5
+RIGHT category: NA
+",y
+"LEFT id: 31
+RIGHT id: 249
+
+LEFT addr: NA
+RIGHT addr: 20 e. 76th st.
+
+LEFT class: NA
+RIGHT class: 31
+
+LEFT address: 20 e. 76th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: daniel
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 212/288 -0033
+RIGHT phone: 212-288-0033
+
+LEFT category: french 31
+RIGHT category: NA
+",y
+"LEFT id: 14
+RIGHT id: 229
+
+LEFT addr: NA
+RIGHT addr: 903 n. la cienega blvd.
+
+LEFT class: NA
+RIGHT class: 11
+
+LEFT address: 129 n. la cienega blvd. beverly hills
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: w. hollywood
+
+LEFT title: matsuhisa
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 310/659 -9639
+RIGHT phone: 310-652-9770
+
+LEFT category: asian 14
+RIGHT category: NA
+",n
+"LEFT id: 89
+RIGHT id: 174
+
+LEFT addr: NA
+RIGHT addr: 4330 peachtree rd.
+
+LEFT class: NA
+RIGHT class: 708
+
+LEFT address: 3434 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: cafe ritz-carlton buckhead
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: american
+
+LEFT phone: 404/237 -2700
+RIGHT phone: 404-237-4116
+
+LEFT category: ` ext 6108 international ' 89
+RIGHT category: NA
+",n
+"LEFT id: 168
+RIGHT id: 234
+
+LEFT addr: NA
+RIGHT addr: 5955 melrose ave.
+
+LEFT class: NA
+RIGHT class: 16
+
+LEFT address: 7371 melrose ave. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: los angeles
+
+LEFT title: tavola calda
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 213/658 -6340
+RIGHT phone: 213-467-1108
+
+LEFT category: italian 165
+RIGHT category: NA
+",n
+"LEFT id: 323
+RIGHT id: 243
+
+LEFT addr: NA
+RIGHT addr: 34 e. 61st st.
+
+LEFT class: NA
+RIGHT class: 25
+
+LEFT address: 24 e. 81st st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: parioli romanissimo
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/288 -2391
+RIGHT phone: 212-319-1660
+
+LEFT category: italian 322
+RIGHT category: NA
+",n
+"LEFT id: 63
+RIGHT id: 281
+
+LEFT addr: NA
+RIGHT addr: central park west
+
+LEFT class: NA
+RIGHT class: 63
+
+LEFT address: in central park at 67th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: tavern on the green
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/873 -3200
+RIGHT phone: 212-873-3200
+
+LEFT category: american 63
+RIGHT category: NA
+",y
+"LEFT id: 491
+RIGHT id: 198
+
+LEFT addr: NA
+RIGHT addr: 333 bush st.
+
+LEFT class: NA
+RIGHT class: 733
+
+LEFT address: 453 bush st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: le central
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 415/391 -2233
+RIGHT phone: 415-362-4454
+
+LEFT category: french 491
+RIGHT category: NA
+",n
+"LEFT id: 145
+RIGHT id: 26
+
+LEFT addr: NA
+RIGHT addr: 1023 abbot kinney blvd.
+
+LEFT class: NA
+RIGHT class: 560
+
+LEFT address: 201 moreno dr. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: venice
+
+LEFT title: jimmy \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 310/552 -2394
+RIGHT phone: 310-399-5811
+
+LEFT category: continental 142
+RIGHT category: NA
+",n
+"LEFT id: 89
+RIGHT id: 308
+
+LEFT addr: NA
+RIGHT addr: 3434 peachtree rd. ne
+
+LEFT class: NA
+RIGHT class: 90
+
+LEFT address: 3434 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: cafe ritz-carlton buckhead
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 404/237 -2700
+RIGHT phone: 404-237-2700
+
+LEFT category: ` ext 6108 international ' 89
+RIGHT category: NA
+",n
+"LEFT id: 429
+RIGHT id: 136
+
+LEFT addr: NA
+RIGHT addr: 3500 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 670
+
+LEFT address: 3400 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bistro
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 702/791 -7111
+RIGHT phone: 702-369-6300
+
+LEFT category: continental 429
+RIGHT category: NA
+",n
+"LEFT id: 68
+RIGHT id: 131
+
+LEFT addr: NA
+RIGHT addr: 3145 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 665
+
+LEFT address: 3799 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: coyote cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/891 -7349
+RIGHT phone: 702-733-4524
+
+LEFT category: southwestern 68
+RIGHT category: NA
+",n
+"LEFT id: 103
+RIGHT id: 321
+
+LEFT addr: NA
+RIGHT addr: 5937 geary blvd.
+
+LEFT class: NA
+RIGHT class: 103
+
+LEFT address: 5937 geary blvd. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: khan toke thai house
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: thai
+
+LEFT phone: 415/668 -6654
+RIGHT phone: 415-668-6654
+
+LEFT category: asian 103
+RIGHT category: NA
+",y
+"LEFT id: 65
+RIGHT id: 249
+
+LEFT addr: NA
+RIGHT addr: 20 e. 76th st.
+
+LEFT class: NA
+RIGHT class: 31
+
+LEFT address: 21 e. 16th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: union square cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 212/243 -4020
+RIGHT phone: 212-288-0033
+
+LEFT category: american 65
+RIGHT category: NA
+",n
+"LEFT id: 72
+RIGHT id: 128
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 662
+
+LEFT address: 2880 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: steak house
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 702/734 -0410
+RIGHT phone: 702-894-7111
+
+LEFT category: ` steak houses ' 72
+RIGHT category: NA
+",n
+"LEFT id: 510
+RIGHT id: 325
+
+LEFT addr: NA
+RIGHT addr: 1737 post st.
+
+LEFT class: NA
+RIGHT class: 107
+
+LEFT address: 1702 post st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: sanppo
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: japanese
+
+LEFT phone: 415/346 -3486
+RIGHT phone: 415-922-0337
+
+LEFT category: asian 510
+RIGHT category: NA
+",n
+"LEFT id: 96
+RIGHT id: 201
+
+LEFT addr: NA
+RIGHT addr: 2889 mission st.
+
+LEFT class: NA
+RIGHT class: 736
+
+LEFT address: 1 mission st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: boulevard
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: mexican
+
+LEFT phone: 415/543 -6084
+RIGHT phone: 415-285-7117
+
+LEFT category: american 96
+RIGHT category: NA
+",n
+"LEFT id: 413
+RIGHT id: 302
+
+LEFT addr: NA
+RIGHT addr: 1397 n. highland ave.
+
+LEFT class: NA
+RIGHT class: 84
+
+LEFT address: 870 n. highland ave. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: r.j. \ s uptown kitchen & wine bar
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: eclectic
+
+LEFT phone: 404/875 -7775
+RIGHT phone: 404-876-0676
+
+LEFT category: american 413
+RIGHT category: NA
+",n
+"LEFT id: 119
+RIGHT id: 146
+
+LEFT addr: NA
+RIGHT addr: 375 14th st.
+
+LEFT class: NA
+RIGHT class: 680
+
+LEFT address: 4th st. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: border grill
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southern/soul
+
+LEFT phone: 310/451 -1655
+RIGHT phone: 404-876-3872
+
+LEFT category: mexican 116
+RIGHT category: NA
+",n
+"LEFT id: 438
+RIGHT id: 139
+
+LEFT addr: NA
+RIGHT addr: 3645 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 673
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: em press court
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: eclectic
+
+LEFT phone: 702/731 -7888
+RIGHT phone: 702-739-4651
+
+LEFT category: asian 438
+RIGHT category: NA
+",n
+"LEFT id: 51
+RIGHT id: 269
+
+LEFT addr: NA
+RIGHT addr: 100 e. 63rd st.
+
+LEFT class: NA
+RIGHT class: 51
+
+LEFT address: 100 e. 63rd st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: park avenue cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/644 -1900
+RIGHT phone: 212-644-1900
+
+LEFT category: american 51
+RIGHT category: NA
+",y
+"LEFT id: 189
+RIGHT id: 107
+
+LEFT addr: NA
+RIGHT addr: 210 e. 46th st.
+
+LEFT class: NA
+RIGHT class: 641
+
+LEFT address: 321 w. 46th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: barbetta
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 212/246 -9171
+RIGHT phone: 212-687-4855
+
+LEFT category: italian 186
+RIGHT category: NA
+",n
+"LEFT id: 437
+RIGHT id: 286
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 68
+
+LEFT address: 2880 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: circus circus
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 702/734 -0410
+RIGHT phone: 702-891-7349
+
+LEFT category: buffets 437
+RIGHT category: NA
+",n
+"LEFT id: 45
+RIGHT id: 263
+
+LEFT addr: NA
+RIGHT addr: 57 w. 58th st.
+
+LEFT class: NA
+RIGHT class: 45
+
+LEFT address: 57 w. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: manhattan ocean club
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: seafood
+
+LEFT phone: ' 212 / 371-7777 '
+RIGHT phone: 212-371-7777
+
+LEFT category: seafood 45
+RIGHT category: NA
+",y
+"LEFT id: 68
+RIGHT id: 128
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 662
+
+LEFT address: 3799 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: coyote cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 702/891 -7349
+RIGHT phone: 702-894-7111
+
+LEFT category: southwestern 68
+RIGHT category: NA
+",n
+"LEFT id: 173
+RIGHT id: 228
+
+LEFT addr: NA
+RIGHT addr: 1972 hillhurst ave.
+
+LEFT class: NA
+RIGHT class: 10
+
+LEFT address: 1930 north hillhurst ave. los feliz
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: los feliz
+
+LEFT title: vida
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: japanese
+
+LEFT phone: 213/660 -4446
+RIGHT phone: 213-665-1891
+
+LEFT category: american 170
+RIGHT category: NA
+",n
+"LEFT id: 410
+RIGHT id: 299
+
+LEFT addr: NA
+RIGHT addr: 2290 peachtree rd.
+
+LEFT class: NA
+RIGHT class: 81
+
+LEFT address: 1829 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: palisades
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 404/350 -6755
+RIGHT phone: 404-352-3517
+
+LEFT category: continental 410
+RIGHT category: NA
+",n
+"LEFT id: 277
+RIGHT id: 284
+
+LEFT addr: NA
+RIGHT addr: 152 w. 44th st.
+
+LEFT class: NA
+RIGHT class: 66
+
+LEFT address: 152 w. 52nd st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: judson grill
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: bbq
+
+LEFT phone: 212/582 -5252
+RIGHT phone: 212-921-9494
+
+LEFT category: american 276
+RIGHT category: NA
+",n
+"LEFT id: 274
+RIGHT id: 242
+
+LEFT addr: NA
+RIGHT addr: 13 w. 54th st.
+
+LEFT class: NA
+RIGHT class: 24
+
+LEFT address: 15 w. 44th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: jewel of india
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: scandinavian
+
+LEFT phone: 212/869 -5544
+RIGHT phone: 212-307-7311
+
+LEFT category: asian 273
+RIGHT category: NA
+",n
+"LEFT id: 93
+RIGHT id: 311
+
+LEFT addr: NA
+RIGHT addr: 41 14th st.
+
+LEFT class: NA
+RIGHT class: 93
+
+LEFT address: 41 14th st. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: veni vidi vici
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 404/875 -8424
+RIGHT phone: 404-875-8424
+
+LEFT category: italian 93
+RIGHT category: NA
+",y
+"LEFT id: 449
+RIGHT id: 288
+
+LEFT addr: NA
+RIGHT addr: 3570 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 70
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: the bacchanal
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/731 -7525
+RIGHT phone: 702-731-7110
+
+LEFT category: ` only in las vegas ' 449
+RIGHT category: NA
+",n
+"LEFT id: 151
+RIGHT id: 62
+
+LEFT addr: NA
+RIGHT addr: 8360 melrose ave.
+
+LEFT class: NA
+RIGHT class: 596
+
+LEFT address: 8764 melrose ave. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: morton \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: desserts
+
+LEFT phone: 310/276 -5205
+RIGHT phone: 213-653-7145
+
+LEFT category: american 148
+RIGHT category: NA
+",n
+"LEFT id: 220
+RIGHT id: 256
+
+LEFT addr: NA
+RIGHT addr: 160 e. 64th st.
+
+LEFT class: NA
+RIGHT class: 38
+
+LEFT address: 160 e. 48th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: chiam
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french bistro '
+
+LEFT phone: 212/371 -2323
+RIGHT phone: 212-223-5656
+
+LEFT category: asian 218
+RIGHT category: NA
+",n
+"LEFT id: 432
+RIGHT id: 126
+
+LEFT addr: NA
+RIGHT addr: 3700 w. flamingo rd.
+
+LEFT class: NA
+RIGHT class: 660
+
+LEFT address: 1350 e. flamingo rd. las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: cafe michelle
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 702/735 -8686
+RIGHT phone: 702-252-7702
+
+LEFT category: american 432
+RIGHT category: NA
+",n
+"LEFT id: 448
+RIGHT id: 123
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 657
+
+LEFT address: 3000 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: ralph \ s diner
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: continental
+
+LEFT phone: 702/732 -6330
+RIGHT phone: 702-894-7350
+
+LEFT category: ` coffee shops/diners ' 448
+RIGHT category: NA
+",n
+"LEFT id: 68
+RIGHT id: 286
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 68
+
+LEFT address: 3799 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: coyote cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 702/891 -7349
+RIGHT phone: 702-891-7349
+
+LEFT category: southwestern 68
+RIGHT category: NA
+",y
+"LEFT id: 34
+RIGHT id: 252
+
+LEFT addr: NA
+RIGHT addr: 99 e. 52nd st.
+
+LEFT class: NA
+RIGHT class: 34
+
+LEFT address: 99 e. 52nd st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: four seasons grill room
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/754 -9494
+RIGHT phone: 212-754-9494
+
+LEFT category: american 34
+RIGHT category: NA
+",y
+"LEFT id: 500
+RIGHT id: 187
+
+LEFT addr: NA
+RIGHT addr: 2298 market st.
+
+LEFT class: NA
+RIGHT class: 722
+
+LEFT address: 1 market st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: one market
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 415/777 -5577
+RIGHT phone: 415-621-8579
+
+LEFT category: american 500
+RIGHT category: NA
+",n
+"LEFT id: 3
+RIGHT id: 46
+
+LEFT addr: NA
+RIGHT addr: 17040 ventura blvd.
+
+LEFT class: NA
+RIGHT class: 580
+
+LEFT address: 14016 ventura blvd. sherman oaks
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: encino
+
+LEFT title: cafe bizou
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: pizza
+
+LEFT phone: 818/788 -3536
+RIGHT phone: 818-906-8881
+
+LEFT category: french 3
+RIGHT category: NA
+",n
+"LEFT id: 3
+RIGHT id: 56
+
+LEFT addr: NA
+RIGHT addr: 15322 ventura blvd.
+
+LEFT class: NA
+RIGHT class: 590
+
+LEFT address: 14016 ventura blvd. sherman oaks
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: encino
+
+LEFT title: cafe bizou
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` hot dogs '
+
+LEFT phone: 818/788 -3536
+RIGHT phone: 818-905-6515
+
+LEFT category: french 3
+RIGHT category: NA
+",n
+"LEFT id: 67
+RIGHT id: 131
+
+LEFT addr: NA
+RIGHT addr: 3145 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 665
+
+LEFT address: 3200 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: chin \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/733 -8899
+RIGHT phone: 702-733-4524
+
+LEFT category: asian 67
+RIGHT category: NA
+",n
+"LEFT id: 284
+RIGHT id: 107
+
+LEFT addr: NA
+RIGHT addr: 210 e. 46th st.
+
+LEFT class: NA
+RIGHT class: 641
+
+LEFT address: 361 w. 46th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: lattanzi ristorante
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 212/315 -0980
+RIGHT phone: 212-687-4855
+
+LEFT category: italian 283
+RIGHT category: NA
+",n
+"LEFT id: 133
+RIGHT id: 17
+
+LEFT addr: NA
+RIGHT addr: 8909 sunset blvd.
+
+LEFT class: NA
+RIGHT class: 551
+
+LEFT address: 730 n. la cienega blvd. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: w. hollywood
+
+LEFT title: drai \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` coffee shops '
+
+LEFT phone: 310/358 -8585
+RIGHT phone: 310-652-3100
+
+LEFT category: french 130
+RIGHT category: NA
+",n
+"LEFT id: 70
+RIGHT id: 139
+
+LEFT addr: NA
+RIGHT addr: 3645 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 673
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: palace court
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: eclectic
+
+LEFT phone: 702/731 -7547
+RIGHT phone: 702-739-4651
+
+LEFT category: continental 70
+RIGHT category: NA
+",n
+"LEFT id: 92
+RIGHT id: 295
+
+LEFT addr: NA
+RIGHT addr: 3393 peachtree rd.
+
+LEFT class: NA
+RIGHT class: 77
+
+LEFT address: b peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: toulouse
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french bistro '
+
+LEFT phone: 404/351 -9533
+RIGHT phone: 404-266-1440
+
+LEFT category: french 92
+RIGHT category: NA
+",n
+"LEFT id: 70
+RIGHT id: 128
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 662
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: palace court
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 702/731 -7547
+RIGHT phone: 702-894-7111
+
+LEFT category: continental 70
+RIGHT category: NA
+",n
+"LEFT id: 444
+RIGHT id: 128
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 662
+
+LEFT address: 3120 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: margarita \ s mexican cantina
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 702/794 -8200
+RIGHT phone: 702-894-7111
+
+LEFT category: mexican 444
+RIGHT category: NA
+",n
+"LEFT id: 214
+RIGHT id: 254
+
+LEFT addr: NA
+RIGHT addr: 42 e. 20th st.
+
+LEFT class: NA
+RIGHT class: 36
+
+LEFT address: 7 w. 20th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: caffe bondi ristorante
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/691 -8136
+RIGHT phone: 212-477-0777
+
+LEFT category: italian 212
+RIGHT category: NA
+",n
+"LEFT id: 4
+RIGHT id: 52
+
+LEFT addr: NA
+RIGHT addr: 709 n. la brea ave.
+
+LEFT class: NA
+RIGHT class: 586
+
+LEFT address: 624 s. la brea ave. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: campanile
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` hot dogs '
+
+LEFT phone: 213/938 -1447
+RIGHT phone: 213-931-4223
+
+LEFT category: american 4
+RIGHT category: NA
+",n
+"LEFT id: 410
+RIGHT id: 184
+
+LEFT addr: NA
+RIGHT addr: 3172 peachtree rd. ne
+
+LEFT class: NA
+RIGHT class: 719
+
+LEFT address: 1829 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: palisades
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: diners
+
+LEFT phone: 404/350 -6755
+RIGHT phone: 404-237-7601
+
+LEFT category: continental 410
+RIGHT category: NA
+",n
+"LEFT id: 433
+RIGHT id: 140
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 674
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: cafe roma
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 702/731 -7547
+RIGHT phone: 702-891-7331
+
+LEFT category: ` coffee shops/diners ' 433
+RIGHT category: NA
+",n
+"LEFT id: 88
+RIGHT id: 153
+
+LEFT addr: NA
+RIGHT addr: 70 w. paces ferry rd.
+
+LEFT class: NA
+RIGHT class: 687
+
+LEFT address: 1232 w. paces ferry rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: pano \ s and paul \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 404/261 -3662
+RIGHT phone: 404-262-2675
+
+LEFT category: international 88
+RIGHT category: NA
+",n
+"LEFT id: 431
+RIGHT id: 139
+
+LEFT addr: NA
+RIGHT addr: 3645 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 673
+
+LEFT address: 3555 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bugsy \ s diner
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: eclectic
+
+LEFT phone: 702/733 -3111
+RIGHT phone: 702-739-4651
+
+LEFT category: ` coffee shops/diners ' 431
+RIGHT category: NA
+",n
+"LEFT id: 94
+RIGHT id: 312
+
+LEFT addr: NA
+RIGHT addr: 126 clement st.
+
+LEFT class: NA
+RIGHT class: 94
+
+LEFT address: 126 clement st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: alain rondelli
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 415/387 -0408
+RIGHT phone: 415-387-0408
+
+LEFT category: french 94
+RIGHT category: NA
+",y
+"LEFT id: 66
+RIGHT id: 284
+
+LEFT addr: NA
+RIGHT addr: 152 w. 44th st.
+
+LEFT class: NA
+RIGHT class: 66
+
+LEFT address: 152 w. 44th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: virgil \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: bbq
+
+LEFT phone: ' 212 / 921-9494 '
+RIGHT phone: 212-921-9494
+
+LEFT category: american 66
+RIGHT category: NA
+",y
+"LEFT id: 18
+RIGHT id: 236
+
+LEFT addr: NA
+RIGHT addr: 12969 ventura blvd.
+
+LEFT class: NA
+RIGHT class: 18
+
+LEFT address: 12969 ventura blvd. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: studio city
+
+LEFT title: pinot bistro
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french bistro '
+
+LEFT phone: 818/990 -0500
+RIGHT phone: 818-990-0500
+
+LEFT category: french 18
+RIGHT category: NA
+",y
+"LEFT id: 431
+RIGHT id: 286
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 68
+
+LEFT address: 3555 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bugsy \ s diner
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 702/733 -3111
+RIGHT phone: 702-891-7349
+
+LEFT category: ` coffee shops/diners ' 431
+RIGHT category: NA
+",n
+"LEFT id: 61
+RIGHT id: 279
+
+LEFT addr: NA
+RIGHT addr: 1110 third ave.
+
+LEFT class: NA
+RIGHT class: 61
+
+LEFT address: 1110 3rd ave. at 65th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: sign of the dove
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/861 -8080
+RIGHT phone: 212-861-8080
+
+LEFT category: american 61
+RIGHT category: NA
+",y
+"LEFT id: 444
+RIGHT id: 133
+
+LEFT addr: NA
+RIGHT addr: 3200 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 667
+
+LEFT address: 3120 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: margarita \ s mexican cantina
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 702/794 -8200
+RIGHT phone: 702-893-0703
+
+LEFT category: mexican 444
+RIGHT category: NA
+",n
+"LEFT id: 197
+RIGHT id: 250
+
+LEFT addr: NA
+RIGHT addr: 210 e. 58th st.
+
+LEFT class: NA
+RIGHT class: 32
+
+LEFT address: 240 e. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: bruno
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: indian
+
+LEFT phone: 212/688 -4190
+RIGHT phone: 212-355-7555
+
+LEFT category: italian 195
+RIGHT category: NA
+",n
+"LEFT id: 232
+RIGHT id: 47
+
+LEFT addr: NA
+RIGHT addr: 3117 ocean park blvd.
+
+LEFT class: NA
+RIGHT class: 581
+
+LEFT address: 157 duane st. between w. broadway and hudson st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: santa monica
+
+LEFT title: duane park cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: american
+
+LEFT phone: 212/732 -5555
+RIGHT phone: 310-452-5728
+
+LEFT category: american 230
+RIGHT category: NA
+",n
+"LEFT id: 326
+RIGHT id: 261
+
+LEFT addr: NA
+RIGHT addr: 2 e. 55th st.
+
+LEFT class: NA
+RIGHT class: 43
+
+LEFT address: 205 e. 45th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: pen & pencil
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 212/682 -8660
+RIGHT phone: 212-339-6719
+
+LEFT category: american 325
+RIGHT category: NA
+",n
+"LEFT id: 427
+RIGHT id: 286
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 68
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bertolini \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 702/735 -4663
+RIGHT phone: 702-891-7349
+
+LEFT category: italian 427
+RIGHT category: NA
+",n
+"LEFT id: 14
+RIGHT id: 218
+
+LEFT addr: NA
+RIGHT addr: 435 s. la cienega blvd.
+
+LEFT class: NA
+RIGHT class: 0
+
+LEFT address: 129 n. la cienega blvd. beverly hills
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: los angeles
+
+LEFT title: matsuhisa
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 310/659 -9639
+RIGHT phone: 310-246-1501
+
+LEFT category: asian 14
+RIGHT category: NA
+",n
+"LEFT id: 506
+RIGHT id: 191
+
+LEFT addr: NA
+RIGHT addr: 2217 union st.
+
+LEFT class: NA
+RIGHT class: 726
+
+LEFT address: 1944 union st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: perry \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: american
+
+LEFT phone: 415/922 -9022
+RIGHT phone: 415-921-2149
+
+LEFT category: american 506
+RIGHT category: NA
+",n
+"LEFT id: 437
+RIGHT id: 132
+
+LEFT addr: NA
+RIGHT addr: 3400 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 666
+
+LEFT address: 2880 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: circus circus
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: chinese
+
+LEFT phone: 702/734 -0410
+RIGHT phone: 702-791-7352
+
+LEFT category: buffets 437
+RIGHT category: NA
+",n
+"LEFT id: 18
+RIGHT id: 219
+
+LEFT addr: NA
+RIGHT addr: 12224 ventura blvd.
+
+LEFT class: NA
+RIGHT class: 1
+
+LEFT address: 12969 ventura blvd. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: studio city
+
+LEFT title: pinot bistro
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: delis
+
+LEFT phone: 818/990 -0500
+RIGHT phone: 818-762-1221
+
+LEFT category: french 18
+RIGHT category: NA
+",n
+"LEFT id: 331
+RIGHT id: 274
+
+LEFT addr: NA
+RIGHT addr: 1 water st.
+
+LEFT class: NA
+RIGHT class: 56
+
+LEFT address: 551 amsterdam ave. between 86th and 87th sts . new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: brooklyn
+
+LEFT title: popover cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/595 -8555
+RIGHT phone: 718-522-5200
+
+LEFT category: american 330
+RIGHT category: NA
+",n
+"LEFT id: 524
+RIGHT id: 214
+
+LEFT addr: NA
+RIGHT addr: 1870 fillmore st.
+
+LEFT class: NA
+RIGHT class: 749
+
+LEFT address: 2125 fillmore st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: vivande porta via
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: american
+
+LEFT phone: 415/346 -4430
+RIGHT phone: 415-563-2248
+
+LEFT category: italian 524
+RIGHT category: NA
+",n
+"LEFT id: 393
+RIGHT id: 174
+
+LEFT addr: NA
+RIGHT addr: 4330 peachtree rd.
+
+LEFT class: NA
+RIGHT class: 708
+
+LEFT address: 3380 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: dante \ s down the hatch buckhead
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: american
+
+LEFT phone: 404/266 -1600
+RIGHT phone: 404-237-4116
+
+LEFT category: continental 393
+RIGHT category: NA
+",n
+"LEFT id: 444
+RIGHT id: 130
+
+LEFT addr: NA
+RIGHT addr: 3595 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 664
+
+LEFT address: 3120 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: margarita \ s mexican cantina
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: continental
+
+LEFT phone: 702/794 -8200
+RIGHT phone: 702-737-7111
+
+LEFT category: mexican 444
+RIGHT category: NA
+",n
+"LEFT id: 424
+RIGHT id: 288
+
+LEFT addr: NA
+RIGHT addr: 3570 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 70
+
+LEFT address: 3645 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bally \ s big kitchen
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/739 -4111
+RIGHT phone: 702-731-7110
+
+LEFT category: buffets 424
+RIGHT category: NA
+",n
+"LEFT id: 386
+RIGHT id: 158
+
+LEFT addr: NA
+RIGHT addr: 1031 peachtree st. ne
+
+LEFT class: NA
+RIGHT class: 692
+
+LEFT address: 1100 peachtree st. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: bistango
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: tex-mex
+
+LEFT phone: 404/724 -0901
+RIGHT phone: 404-892-8226
+
+LEFT category: mediterranean 386
+RIGHT category: NA
+",n
+"LEFT id: 405
+RIGHT id: 292
+
+LEFT addr: NA
+RIGHT addr: 2355 peachtree rd. ne
+
+LEFT class: NA
+RIGHT class: 74
+
+LEFT address: 1931 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: luna si
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 404/355 -5993
+RIGHT phone: 404-261-8186
+
+LEFT category: continental 405
+RIGHT category: NA
+",n
+"LEFT id: 104
+RIGHT id: 217
+
+LEFT addr: NA
+RIGHT addr: 2141 polk st.
+
+LEFT class: NA
+RIGHT class: 752
+
+LEFT address: 2316 polk st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: la folie
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: mexican
+
+LEFT phone: 415/776 -5577
+RIGHT phone: 415-775-1055
+
+LEFT category: french 104
+RIGHT category: NA
+",n
+"LEFT id: 318
+RIGHT id: 255
+
+LEFT addr: NA
+RIGHT addr: 402 w. 44th st.
+
+LEFT class: NA
+RIGHT class: 37
+
+LEFT address: 142 w. 44th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: osteria al droge
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: caribbean
+
+LEFT phone: 212/944 -3643
+RIGHT phone: 212-765-1737
+
+LEFT category: italian 317
+RIGHT category: NA
+",n
+"LEFT id: 490
+RIGHT id: 188
+
+LEFT addr: NA
+RIGHT addr: 423 columbus ave.
+
+LEFT class: NA
+RIGHT class: 723
+
+LEFT address: 519 columbus ave. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: l \  osteria del forno
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: continental
+
+LEFT phone: 415/982 -1124
+RIGHT phone: 415-397-6261
+
+LEFT category: italian 490
+RIGHT category: NA
+",n
+"LEFT id: 424
+RIGHT id: 128
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 662
+
+LEFT address: 3645 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bally \ s big kitchen
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 702/739 -4111
+RIGHT phone: 702-894-7111
+
+LEFT category: buffets 424
+RIGHT category: NA
+",n
+"LEFT id: 92
+RIGHT id: 299
+
+LEFT addr: NA
+RIGHT addr: 2290 peachtree rd.
+
+LEFT class: NA
+RIGHT class: 81
+
+LEFT address: b peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: toulouse
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 404/351 -9533
+RIGHT phone: 404-352-3517
+
+LEFT category: french 92
+RIGHT category: NA
+",n
+"LEFT id: 410
+RIGHT id: 303
+
+LEFT addr: NA
+RIGHT addr: 2637 peachtree rd. ne
+
+LEFT class: NA
+RIGHT class: 85
+
+LEFT address: 1829 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: palisades
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 404/350 -6755
+RIGHT phone: 404-231-1368
+
+LEFT category: continental 410
+RIGHT category: NA
+",n
+"LEFT id: 25
+RIGHT id: 243
+
+LEFT addr: NA
+RIGHT addr: 34 e. 61st st.
+
+LEFT class: NA
+RIGHT class: 25
+
+LEFT address: 34 e. 61st st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: aureole
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: ' 212 / 319-1660 '
+RIGHT phone: 212-319-1660
+
+LEFT category: american 25
+RIGHT category: NA
+",y
+"LEFT id: 221
+RIGHT id: 265
+
+LEFT addr: NA
+RIGHT addr: 102 fifth ave.
+
+LEFT class: NA
+RIGHT class: 47
+
+LEFT address: 60 w. 53rd st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: china grill
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 212/333 -7788
+RIGHT phone: 212-807-7400
+
+LEFT category: american 219
+RIGHT category: NA
+",n
+"LEFT id: 431
+RIGHT id: 136
+
+LEFT addr: NA
+RIGHT addr: 3500 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 670
+
+LEFT address: 3555 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bugsy \ s diner
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 702/733 -3111
+RIGHT phone: 702-369-6300
+
+LEFT category: ` coffee shops/diners ' 431
+RIGHT category: NA
+",n
+"LEFT id: 274
+RIGHT id: 104
+
+LEFT addr: NA
+RIGHT addr: 308 e. sixth st.
+
+LEFT class: NA
+RIGHT class: 638
+
+LEFT address: 15 w. 44th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: jewel of india
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: indian
+
+LEFT phone: 212/869 -5544
+RIGHT phone: 212-533-5011
+
+LEFT category: asian 273
+RIGHT category: NA
+",n
+"LEFT id: 276
+RIGHT id: 13
+
+LEFT addr: NA
+RIGHT addr: 3266 w. sixth st.
+
+LEFT class: NA
+RIGHT class: 547
+
+LEFT address: 326 w. 46th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: joe allen
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: hamburgers
+
+LEFT phone: 212/581 -6464
+RIGHT phone: 213-480-8668
+
+LEFT category: american 275
+RIGHT category: NA
+",n
+"LEFT id: 161
+RIGHT id: 59
+
+LEFT addr: NA
+RIGHT addr: 224 s. beverly dr.
+
+LEFT class: NA
+RIGHT class: 593
+
+LEFT address: 252 n. beverly dr. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: beverly hills
+
+LEFT title: rj \ s the rib joint
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 310/274 -7427
+RIGHT phone: 310-859-8744
+
+LEFT category: american 158
+RIGHT category: NA
+",n
+"LEFT id: 449
+RIGHT id: 140
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 674
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: the bacchanal
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 702/731 -7525
+RIGHT phone: 702-891-7331
+
+LEFT category: ` only in las vegas ' 449
+RIGHT category: NA
+",n
+"LEFT id: 457
+RIGHT id: 6
+
+LEFT addr: NA
+RIGHT addr: 45 s. mentor ave.
+
+LEFT class: NA
+RIGHT class: 540
+
+LEFT address: 155 steuart st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: pasadena
+
+LEFT title: bistro roti
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 415/495 -6500
+RIGHT phone: 818-795-2478
+
+LEFT category: french 457
+RIGHT category: NA
+",n
+"LEFT id: 24
+RIGHT id: 257
+
+LEFT addr: NA
+RIGHT addr: 33 w. 55th st.
+
+LEFT class: NA
+RIGHT class: 39
+
+LEFT address: 13 w. 54th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: aquavit
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/307 -7311
+RIGHT phone: 212-586-4252
+
+LEFT category: continental 24
+RIGHT category: NA
+",n
+"LEFT id: 422
+RIGHT id: 148
+
+LEFT addr: NA
+RIGHT addr: 4274 peachtree rd.
+
+LEFT class: NA
+RIGHT class: 682
+
+LEFT address: 3393 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: tomtom
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: vegetarian
+
+LEFT phone: 404/264 -1163
+RIGHT phone: 404-231-5907
+
+LEFT category: continental 422
+RIGHT category: NA
+",n
+"LEFT id: 167
+RIGHT id: 23
+
+LEFT addr: NA
+RIGHT addr: 8424 beverly blvd.
+
+LEFT class: NA
+RIGHT class: 557
+
+LEFT address: 8020 beverly blvd. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: swingers
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` coffee shops '
+
+LEFT phone: 213/653 -5858
+RIGHT phone: 213-651-2866
+
+LEFT category: american 164
+RIGHT category: NA
+",n
+"LEFT id: 62
+RIGHT id: 119
+
+LEFT addr: NA
+RIGHT addr: 205 e. 49th st.
+
+LEFT class: NA
+RIGHT class: 653
+
+LEFT address: 201 e. 49th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: smith & wollensky
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 212/753 -1530
+RIGHT phone: 212-753-0444
+
+LEFT category: american 62
+RIGHT category: NA
+",n
+"LEFT id: 446
+RIGHT id: 132
+
+LEFT addr: NA
+RIGHT addr: 3400 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 666
+
+LEFT address: 3400 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: mikado
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: chinese
+
+LEFT phone: 702/791 -7111
+RIGHT phone: 702-791-7352
+
+LEFT category: asian 446
+RIGHT category: NA
+",n
+"LEFT id: 440
+RIGHT id: 137
+
+LEFT addr: NA
+RIGHT addr: 128 e. fremont st.
+
+LEFT class: NA
+RIGHT class: 671
+
+LEFT address: 129 e. fremont st. las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: golden nugget hotel
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 702/385 -7111
+RIGHT phone: 702-382-1600
+
+LEFT category: buffets 440
+RIGHT category: NA
+",n
+"LEFT id: 162
+RIGHT id: 4
+
+LEFT addr: NA
+RIGHT addr: 1433 third st. promenade
+
+LEFT class: NA
+RIGHT class: 538
+
+LEFT address: 3rd st. promenade santa monica
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: santa monica
+
+LEFT title: remi
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` fast food '
+
+LEFT phone: 310/393 -6545
+RIGHT phone: 310-458-2889
+
+LEFT category: italian 159
+RIGHT category: NA
+",n
+"LEFT id: 491
+RIGHT id: 324
+
+LEFT addr: NA
+RIGHT addr: 648 bush st.
+
+LEFT class: NA
+RIGHT class: 106
+
+LEFT address: 453 bush st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: le central
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 415/391 -2233
+RIGHT phone: 415-989-7154
+
+LEFT category: french 491
+RIGHT category: NA
+",n
+"LEFT id: 68
+RIGHT id: 125
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 659
+
+LEFT address: 3799 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: coyote cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: seafood
+
+LEFT phone: 702/891 -7349
+RIGHT phone: 702-891-7374
+
+LEFT category: southwestern 68
+RIGHT category: NA
+",n
+"LEFT id: 73
+RIGHT id: 124
+
+LEFT addr: NA
+RIGHT addr: 3700 w. flamingo rd.
+
+LEFT class: NA
+RIGHT class: 658
+
+LEFT address: 2245 e. flamingo rd. las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: tillerman
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: seafood
+
+LEFT phone: 702/731 -4036
+RIGHT phone: 702-252-7697
+
+LEFT category: seafood 73
+RIGHT category: NA
+",n
+"LEFT id: 277
+RIGHT id: 89
+
+LEFT addr: NA
+RIGHT addr: 3 e. 52nd st.
+
+LEFT class: NA
+RIGHT class: 623
+
+LEFT address: 152 w. 52nd st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: judson grill
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/582 -5252
+RIGHT phone: 212-752-1495
+
+LEFT category: american 276
+RIGHT category: NA
+",n
+"LEFT id: 318
+RIGHT id: 284
+
+LEFT addr: NA
+RIGHT addr: 152 w. 44th st.
+
+LEFT class: NA
+RIGHT class: 66
+
+LEFT address: 142 w. 44th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: osteria al droge
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: bbq
+
+LEFT phone: 212/944 -3643
+RIGHT phone: 212-921-9494
+
+LEFT category: italian 317
+RIGHT category: NA
+",n
+"LEFT id: 478
+RIGHT id: 289
+
+LEFT addr: NA
+RIGHT addr: 200 e. fremont st.
+
+LEFT class: NA
+RIGHT class: 71
+
+LEFT address: 320 hayes st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: hayes street grill
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` pacific rim '
+
+LEFT phone: 415/863 -5545
+RIGHT phone: 702-385-6277
+
+LEFT category: seafood 478
+RIGHT category: NA
+",n
+"LEFT id: 463
+RIGHT id: 211
+
+LEFT addr: NA
+RIGHT addr: 1517 polk st.
+
+LEFT class: NA
+RIGHT class: 746
+
+LEFT address: 625 polk st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: california culinary academy
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: seafood
+
+LEFT phone: 415/771 -3500
+RIGHT phone: 415-673-1101
+
+LEFT category: french 463
+RIGHT category: NA
+",n
+"LEFT id: 348
+RIGHT id: 84
+
+LEFT addr: NA
+RIGHT addr: 48 w. 65th st.
+
+LEFT class: NA
+RIGHT class: 618
+
+LEFT address: 58 w. 65th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: sfuzzi
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: pizza
+
+LEFT phone: 212/873 -3700
+RIGHT phone: 212-721-7001
+
+LEFT category: american 348
+RIGHT category: NA
+",n
+"LEFT id: 282
+RIGHT id: 255
+
+LEFT addr: NA
+RIGHT addr: 402 w. 44th st.
+
+LEFT class: NA
+RIGHT class: 37
+
+LEFT address: 4 w. 49th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: la reserve
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: caribbean
+
+LEFT phone: 212/247 -2993
+RIGHT phone: 212-765-1737
+
+LEFT category: french 281
+RIGHT category: NA
+",n
+"LEFT id: 76
+RIGHT id: 294
+
+LEFT addr: NA
+RIGHT addr: 3130 piedmont rd. ne
+
+LEFT class: NA
+RIGHT class: 76
+
+LEFT address: 3130 piedmont road atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: bone \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 404/237 -2663
+RIGHT phone: 404-237-2663
+
+LEFT category: american 76
+RIGHT category: NA
+",y
+"LEFT id: 42
+RIGHT id: 260
+
+LEFT addr: NA
+RIGHT addr: 155 w. 58th st.
+
+LEFT class: NA
+RIGHT class: 42
+
+LEFT address: 160 central park s new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: les celebrites
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/484 -5113
+RIGHT phone: 212-484-5113
+
+LEFT category: french 42
+RIGHT category: NA
+",y
+"LEFT id: 450
+RIGHT id: 129
+
+LEFT addr: NA
+RIGHT addr: 4750 w. sahara ave.
+
+LEFT class: NA
+RIGHT class: 663
+
+LEFT address: 3713 w. sahara ave. las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: venetian
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: chinese
+
+LEFT phone: 702/876 -4190
+RIGHT phone: 702-870-8432
+
+LEFT category: italian 450
+RIGHT category: NA
+",n
+"LEFT id: 107
+RIGHT id: 327
+
+LEFT addr: NA
+RIGHT addr: 545 post st.
+
+LEFT class: NA
+RIGHT class: 109
+
+LEFT address: 1737 post st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: mifune japan center kintetsu building
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 415/922 -0337
+RIGHT phone: 415-776-7825
+
+LEFT category: asian 107
+RIGHT category: NA
+",n
+"LEFT id: 119
+RIGHT id: 215
+
+LEFT addr: NA
+RIGHT addr: 8 sixth st.
+
+LEFT class: NA
+RIGHT class: 750
+
+LEFT address: 4th st. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: border grill
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: vietnamese
+
+LEFT phone: 310/451 -1655
+RIGHT phone: 415-626-0927
+
+LEFT category: mexican 116
+RIGHT category: NA
+",n
+"LEFT id: 33
+RIGHT id: 250
+
+LEFT addr: NA
+RIGHT addr: 210 e. 58th st.
+
+LEFT class: NA
+RIGHT class: 32
+
+LEFT address: 243 e. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: felidia
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: indian
+
+LEFT phone: 212/758 -1479
+RIGHT phone: 212-355-7555
+
+LEFT category: italian 33
+RIGHT category: NA
+",n
+"LEFT id: 225
+RIGHT id: 22
+
+LEFT addr: NA
+RIGHT addr: 10428 1/2 national blvd.
+
+LEFT class: NA
+RIGHT class: 556
+
+LEFT address: 1013 3rd ave. between 60th and 61st sts . new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: corrado cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: indonesian
+
+LEFT phone: 212/753 -5100
+RIGHT phone: 310-815-1290
+
+LEFT category: ` coffee bar ' 223
+RIGHT category: NA
+",n
+"LEFT id: 30
+RIGHT id: 248
+
+LEFT addr: NA
+RIGHT addr: 2 harrison st.
+
+LEFT class: NA
+RIGHT class: 30
+
+LEFT address: 2 harrison st. near hudson st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: chanterelle
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 212/966 -6960
+RIGHT phone: 212-966-6960
+
+LEFT category: american 30
+RIGHT category: NA
+",y
+"LEFT id: 449
+RIGHT id: 133
+
+LEFT addr: NA
+RIGHT addr: 3200 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 667
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: the bacchanal
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 702/731 -7525
+RIGHT phone: 702-893-0703
+
+LEFT category: ` only in las vegas ' 449
+RIGHT category: NA
+",n
+"LEFT id: 424
+RIGHT id: 136
+
+LEFT addr: NA
+RIGHT addr: 3500 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 670
+
+LEFT address: 3645 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bally \ s big kitchen
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 702/739 -4111
+RIGHT phone: 702-369-6300
+
+LEFT category: buffets 424
+RIGHT category: NA
+",n
+"LEFT id: 43
+RIGHT id: 93
+
+LEFT addr: NA
+RIGHT addr: 39 w. 55th st.
+
+LEFT class: NA
+RIGHT class: 627
+
+LEFT address: 2 e. 55th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: lespinasse
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: japanese
+
+LEFT phone: 212/339 -6719
+RIGHT phone: 212-247-1585
+
+LEFT category: american 43
+RIGHT category: NA
+",n
+"LEFT id: 48
+RIGHT id: 266
+
+LEFT addr: NA
+RIGHT addr: 57 jane st.
+
+LEFT class: NA
+RIGHT class: 48
+
+LEFT address: 57 jane st. off hudson st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: mi cocina
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: mexican
+
+LEFT phone: 212/627 -8273
+RIGHT phone: 212-627-8273
+
+LEFT category: mexican 48
+RIGHT category: NA
+",y
+"LEFT id: 490
+RIGHT id: 329
+
+LEFT addr: NA
+RIGHT addr: 532 columbus ave.
+
+LEFT class: NA
+RIGHT class: 111
+
+LEFT address: 519 columbus ave. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: l \  osteria del forno
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 415/982 -1124
+RIGHT phone: 415-399-0499
+
+LEFT category: italian 490
+RIGHT category: NA
+",n
+"LEFT id: 396
+RIGHT id: 142
+
+LEFT addr: NA
+RIGHT addr: 659 peachtree st.
+
+LEFT class: NA
+RIGHT class: 676
+
+LEFT address: 923 peachtree st. at 8th st. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: french quarter food shop
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: sandwiches
+
+LEFT phone: 404/875 -2489
+RIGHT phone: 404-724-0444
+
+LEFT category: southern 396
+RIGHT category: NA
+",n
+"LEFT id: 464
+RIGHT id: 152
+
+LEFT addr: NA
+RIGHT addr: 1215 powers ferry rd.
+
+LEFT class: NA
+RIGHT class: 686
+
+LEFT address: 1600 powell st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: marietta
+
+LEFT title: capp \ s corner
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: hamburgers
+
+LEFT phone: 415/989 -2589
+RIGHT phone: 770-933-0909
+
+LEFT category: italian 464
+RIGHT category: NA
+",n
+"LEFT id: 373
+RIGHT id: 251
+
+LEFT addr: NA
+RIGHT addr: 243 e. 58th st.
+
+LEFT class: NA
+RIGHT class: 33
+
+LEFT address: 200 e. 54th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: vong
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 212/486 -9592
+RIGHT phone: 212-758-1479
+
+LEFT category: american 373
+RIGHT category: NA
+",n
+"LEFT id: 424
+RIGHT id: 131
+
+LEFT addr: NA
+RIGHT addr: 3145 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 665
+
+LEFT address: 3645 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bally \ s big kitchen
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/739 -4111
+RIGHT phone: 702-733-4524
+
+LEFT category: buffets 424
+RIGHT category: NA
+",n
+"LEFT id: 393
+RIGHT id: 172
+
+LEFT addr: NA
+RIGHT addr: 3060 peachtree rd.
+
+LEFT class: NA
+RIGHT class: 706
+
+LEFT address: 3380 peachtree rd. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: dante \ s down the hatch buckhead
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 404/266 -1600
+RIGHT phone: 404-240-1984
+
+LEFT category: continental 393
+RIGHT category: NA
+",n
+"LEFT id: 531
+RIGHT id: 121
+
+LEFT addr: NA
+RIGHT addr: 953 second ave.
+
+LEFT class: NA
+RIGHT class: 655
+
+LEFT address: 2000 hyde st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: zarzuela
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: mexican
+
+LEFT phone: 415/346 -0800
+RIGHT phone: 212-644-6740
+
+LEFT category: ` mexican/latin american/spanish ' 531
+RIGHT category: NA
+",n
+"LEFT id: 140
+RIGHT id: 33
+
+LEFT addr: NA
+RIGHT addr: 8393 w. beverly blvd.
+
+LEFT class: NA
+RIGHT class: 567
+
+LEFT address: 8600 beverly blvd. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: hard rock cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: chicken
+
+LEFT phone: 310/276 -7605
+RIGHT phone: 213-655-9045
+
+LEFT category: american 137
+RIGHT category: NA
+",n
+"LEFT id: 104
+RIGHT id: 202
+
+LEFT addr: NA
+RIGHT addr: 2209 polk st.
+
+LEFT class: NA
+RIGHT class: 737
+
+LEFT address: 2316 polk st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: la folie
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 415/776 -5577
+RIGHT phone: 415-776-8226
+
+LEFT category: french 104
+RIGHT category: NA
+",n
+"LEFT id: 12
+RIGHT id: 62
+
+LEFT addr: NA
+RIGHT addr: 8360 melrose ave.
+
+LEFT class: NA
+RIGHT class: 596
+
+LEFT address: 8284 melrose ave. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: la
+
+LEFT title: le chardonnay
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: desserts
+
+LEFT phone: 213/655 -8880
+RIGHT phone: 213-653-7145
+
+LEFT category: french 12
+RIGHT category: NA
+",n
+"LEFT id: 33
+RIGHT id: 260
+
+LEFT addr: NA
+RIGHT addr: 155 w. 58th st.
+
+LEFT class: NA
+RIGHT class: 42
+
+LEFT address: 243 e. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: felidia
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/758 -1479
+RIGHT phone: 212-484-5113
+
+LEFT category: italian 33
+RIGHT category: NA
+",n
+"LEFT id: 52
+RIGHT id: 263
+
+LEFT addr: NA
+RIGHT addr: 57 w. 58th st.
+
+LEFT class: NA
+RIGHT class: 45
+
+LEFT address: 182 w. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: petrossian
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: seafood
+
+LEFT phone: 212/245 -2214
+RIGHT phone: 212-371-7777
+
+LEFT category: french 52
+RIGHT category: NA
+",n
+"LEFT id: 106
+RIGHT id: 190
+
+LEFT addr: NA
+RIGHT addr: 1805 haight st.
+
+LEFT class: NA
+RIGHT class: 725
+
+LEFT address: 648 bush st. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: masa \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: caribbean
+
+LEFT phone: 415/989 -7154
+RIGHT phone: 415-386-5758
+
+LEFT category: french 106
+RIGHT category: NA
+",n
+"LEFT id: 70
+RIGHT id: 290
+
+LEFT addr: NA
+RIGHT addr: 2880 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 72
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: palace court
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 702/731 -7547
+RIGHT phone: 702-734-0410
+
+LEFT category: continental 70
+RIGHT category: NA
+",n
+"LEFT id: 273
+RIGHT id: 258
+
+LEFT addr: NA
+RIGHT addr: 60 w. 55th st.
+
+LEFT class: NA
+RIGHT class: 40
+
+LEFT address: 68 w. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: jean lafitte
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/751 -2323
+RIGHT phone: 212-688-6525
+
+LEFT category: french 272
+RIGHT category: NA
+",n
+"LEFT id: 67
+RIGHT id: 140
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 674
+
+LEFT address: 3200 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: chin \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: italian
+
+LEFT phone: 702/733 -8899
+RIGHT phone: 702-891-7331
+
+LEFT category: asian 67
+RIGHT category: NA
+",n
+"LEFT id: 201
+RIGHT id: 221
+
+LEFT addr: NA
+RIGHT addr: 14016 ventura blvd.
+
+LEFT class: NA
+RIGHT class: 3
+
+LEFT address: 1486 2nd ave. between 77th and 78th sts . new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: sherman oaks
+
+LEFT title: cafe bianco
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french bistro '
+
+LEFT phone: 212/988 -2655
+RIGHT phone: 818-788-3536
+
+LEFT category: ` coffee bar ' 199
+RIGHT category: NA
+",n
+"LEFT id: 72
+RIGHT id: 285
+
+LEFT addr: NA
+RIGHT addr: 3200 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 67
+
+LEFT address: 2880 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: steak house
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: chinese
+
+LEFT phone: 702/734 -0410
+RIGHT phone: 702-733-8899
+
+LEFT category: ` steak houses ' 72
+RIGHT category: NA
+",n
+"LEFT id: 168
+RIGHT id: 230
+
+LEFT addr: NA
+RIGHT addr: 8284 melrose ave.
+
+LEFT class: NA
+RIGHT class: 12
+
+LEFT address: 7371 melrose ave. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: los angeles
+
+LEFT title: tavola calda
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french bistro '
+
+LEFT phone: 213/658 -6340
+RIGHT phone: 213-655-8880
+
+LEFT category: italian 165
+RIGHT category: NA
+",n
+"LEFT id: 31
+RIGHT id: 283
+
+LEFT addr: NA
+RIGHT addr: 21 e. 16th st.
+
+LEFT class: NA
+RIGHT class: 65
+
+LEFT address: 20 e. 76th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: daniel
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` american ( new ) '
+
+LEFT phone: 212/288 -0033
+RIGHT phone: 212-243-4020
+
+LEFT category: french 31
+RIGHT category: NA
+",n
+"LEFT id: 427
+RIGHT id: 136
+
+LEFT addr: NA
+RIGHT addr: 3500 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 670
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bertolini \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 702/735 -4663
+RIGHT phone: 702-369-6300
+
+LEFT category: italian 427
+RIGHT category: NA
+",n
+"LEFT id: 263
+RIGHT id: 245
+
+LEFT addr: NA
+RIGHT addr: 1 w. 67th st.
+
+LEFT class: NA
+RIGHT class: 27
+
+LEFT address: 221 w. 57th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: hard rock cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/489 -6565
+RIGHT phone: 212-877-3500
+
+LEFT category: american 261
+RIGHT category: NA
+",n
+"LEFT id: 272
+RIGHT id: 242
+
+LEFT addr: NA
+RIGHT addr: 13 w. 54th st.
+
+LEFT class: NA
+RIGHT class: 24
+
+LEFT address: 13 w. 46th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: ipanema
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: scandinavian
+
+LEFT phone: 212/730 -5848
+RIGHT phone: 212-307-7311
+
+LEFT category: ` latin american ' 271
+RIGHT category: NA
+",n
+"LEFT id: 517
+RIGHT id: 321
+
+LEFT addr: NA
+RIGHT addr: 5937 geary blvd.
+
+LEFT class: NA
+RIGHT class: 103
+
+LEFT address: 3300 geary blvd. san francisco
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: san francisco
+
+LEFT title: straits cafe
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: thai
+
+LEFT phone: 415/668 -1783
+RIGHT phone: 415-668-6654
+
+LEFT category: asian 517
+RIGHT category: NA
+",n
+"LEFT id: 449
+RIGHT id: 131
+
+LEFT addr: NA
+RIGHT addr: 3145 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 665
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: the bacchanal
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( new ) '
+
+LEFT phone: 702/731 -7525
+RIGHT phone: 702-733-4524
+
+LEFT category: ` only in las vegas ' 449
+RIGHT category: NA
+",n
+"LEFT id: 444
+RIGHT id: 136
+
+LEFT addr: NA
+RIGHT addr: 3500 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 670
+
+LEFT address: 3120 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: margarita \ s mexican cantina
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: californian
+
+LEFT phone: 702/794 -8200
+RIGHT phone: 702-369-6300
+
+LEFT category: mexican 444
+RIGHT category: NA
+",n
+"LEFT id: 143
+RIGHT id: 27
+
+LEFT addr: NA
+RIGHT addr: 10516 w. pico blvd.
+
+LEFT class: NA
+RIGHT class: 561
+
+LEFT address: 10668 w. pico blvd. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: west la
+
+LEFT title: jack sprat \ s grill
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` coffee shops '
+
+LEFT phone: 310/837 -6662
+RIGHT phone: 310-204-0692
+
+LEFT category: ` health food ' 140
+RIGHT category: NA
+",n
+"LEFT id: 133
+RIGHT id: 218
+
+LEFT addr: NA
+RIGHT addr: 435 s. la cienega blvd.
+
+LEFT class: NA
+RIGHT class: 0
+
+LEFT address: 730 n. la cienega blvd. los angeles
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: los angeles
+
+LEFT title: drai \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 310/358 -8585
+RIGHT phone: 310-246-1501
+
+LEFT category: french 130
+RIGHT category: NA
+",n
+"LEFT id: 427
+RIGHT id: 123
+
+LEFT addr: NA
+RIGHT addr: 3300 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 657
+
+LEFT address: 3570 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: bertolini \ s
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: continental
+
+LEFT phone: 702/735 -4663
+RIGHT phone: 702-894-7350
+
+LEFT category: italian 427
+RIGHT category: NA
+",n
+"LEFT id: 444
+RIGHT id: 285
+
+LEFT addr: NA
+RIGHT addr: 3200 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 67
+
+LEFT address: 3120 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: margarita \ s mexican cantina
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: chinese
+
+LEFT phone: 702/794 -8200
+RIGHT phone: 702-733-8899
+
+LEFT category: mexican 444
+RIGHT category: NA
+",n
+"LEFT id: 329
+RIGHT id: 245
+
+LEFT addr: NA
+RIGHT addr: 1 w. 67th st.
+
+LEFT class: NA
+RIGHT class: 27
+
+LEFT address: 140 w. 57th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: planet hollywood
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/333 -7827
+RIGHT phone: 212-877-3500
+
+LEFT category: american 328
+RIGHT category: NA
+",n
+"LEFT id: 444
+RIGHT id: 286
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 68
+
+LEFT address: 3120 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: margarita \ s mexican cantina
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 702/794 -8200
+RIGHT phone: 702-891-7349
+
+LEFT category: mexican 444
+RIGHT category: NA
+",n
+"LEFT id: 91
+RIGHT id: 158
+
+LEFT addr: NA
+RIGHT addr: 1031 peachtree st. ne
+
+LEFT class: NA
+RIGHT class: 692
+
+LEFT address: 181 peachtree st. atlanta
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: atlanta
+
+LEFT title: restaurant ritz-carlton atlanta
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: tex-mex
+
+LEFT phone: 404/659 -0400
+RIGHT phone: 404-892-8226
+
+LEFT category: continental 91
+RIGHT category: NA
+",n
+"LEFT id: 342
+RIGHT id: 242
+
+LEFT addr: NA
+RIGHT addr: 13 w. 54th st.
+
+LEFT class: NA
+RIGHT class: 24
+
+LEFT address: 18 e. 54th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: san pietro
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: scandinavian
+
+LEFT phone: 212/753 -9015
+RIGHT phone: 212-307-7311
+
+LEFT category: italian 342
+RIGHT category: NA
+",n
+"LEFT id: 39
+RIGHT id: 258
+
+LEFT addr: NA
+RIGHT addr: 60 w. 55th st.
+
+LEFT class: NA
+RIGHT class: 40
+
+LEFT address: 33 w. 55th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: la caravelle
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: ` french ( classic ) '
+
+LEFT phone: 212/586 -4252
+RIGHT phone: 212-688-6525
+
+LEFT category: french 39
+RIGHT category: NA
+",n
+"LEFT id: 220
+RIGHT id: 107
+
+LEFT addr: NA
+RIGHT addr: 210 e. 46th st.
+
+LEFT class: NA
+RIGHT class: 641
+
+LEFT address: 160 e. 48th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: chiam
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: steakhouses
+
+LEFT phone: 212/371 -2323
+RIGHT phone: 212-687-4855
+
+LEFT category: asian 218
+RIGHT category: NA
+",n
+"LEFT id: 197
+RIGHT id: 261
+
+LEFT addr: NA
+RIGHT addr: 2 e. 55th st.
+
+LEFT class: NA
+RIGHT class: 43
+
+LEFT address: 240 e. 58th st. new york
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: new york city
+
+LEFT title: bruno
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: asian
+
+LEFT phone: 212/688 -4190
+RIGHT phone: 212-339-6719
+
+LEFT category: italian 195
+RIGHT category: NA
+",n
+"LEFT id: 448
+RIGHT id: 286
+
+LEFT addr: NA
+RIGHT addr: 3799 las vegas blvd. s.
+
+LEFT class: NA
+RIGHT class: 68
+
+LEFT address: 3000 las vegas blvd. s las vegas
+RIGHT address: NA
+
+LEFT city: NA
+RIGHT city: las vegas
+
+LEFT title: ralph \ s diner
+RIGHT title: NA
+
+LEFT type: NA
+RIGHT type: southwestern
+
+LEFT phone: 702/732 -6330
+RIGHT phone: 702-891-7349
+
+LEFT category: ` coffee shops/diners ' 448
+RIGHT category: NA
+",n

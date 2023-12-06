@@ -1,6 +1,10 @@
-# Machamp
 
-Machamp is a Benchmarking for the task of Generalized Entity Matching (GEM), which aims at performing entity matching between entries in structured, semi-structured, and unstructured format. 
+
+# Reformatted Machamp
+
+Machamp is a Benchmarking for the task of Generalized Entity Matching (GEM), which aims at performing entity matching between entries in structured, semi-structured, and unstructured format.
+
+This repository contains reformatted version of the Machamp datasets. The reformatting allows the datasets to be easily passed into LLMs.
 
 ## Task Description
 
